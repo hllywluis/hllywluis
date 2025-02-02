@@ -1,11 +1,34 @@
-```js
-console.log("Hello, World! I'm Luis, a Software Engineer.")
-```
+# Hi there, I'm Luis! 👋
 
-I graduated from FIU's class of 2020 with a Bachelor of Science in Computer Science.
+## 👨‍💻 About Me
+- 🏢 Platform Engineer at Capital One
+- 🎓 B.S. in Computer Science from Florida International University (FIU)
+- 🔧 Working on cloud infrastructure and automation
+- 🎮 Video game enthusiast 
+- 💡 Always building something new
 
-- 🔭 I’m currently working on an RPG for the Playdate console.
-- 🌱 I’m currently learning everything about Playdate game dev.
-- 📫 How to reach me: `hllywluis2@icloud.com`
-- 😄 Pronouns: `he/him/his`
-- ⚡ Fun fact: `I love making music when I'm not coding. I also love playing videogames in my off-time.`
+## 🛠️ Tech Stack
+- ☁️ Cloud Platforms (AWS, GCP, Azure)
+- 🐳 Containerization & Orchestration (Docker, Kubernetes)
+- 🔄 CI/CD (Jenkins, GitHub Actions)
+- 📝 Infrastructure as Code (Terraform, CloudFormation)
+- 🐍 Python | 🦀 Rust | 🟨 JavaScript | ☕ Java
+
+## 🎯 Current Focus
+- 🚀 Automating infrastructure deployments
+- 📚 Learning new technologies
+- 🌱 Growing as a Platform Engineer
+- 🎨 Building side projects
+
+## 🎮 Gaming & Projects
+- 🕹️ Currently playing classic games on my TrimUI Brick!
+- 🛠️ Working on: kekbot.js (a Discord bot.)
+- 💻 Check out my repos below!
+
+## 📫 Get in Touch
+- 🔗 [LinkedIn](www.linkedin.com/in/hllywluis)
+- 📧 Email: [luis@kleptonix.com]
+
+<!--
+Fun fact: This README is powered by ✨ emojis ✨
+-->
