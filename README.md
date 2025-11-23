@@ -1,7 +1,7 @@
 # Hi there, I'm Luis! 👋
 
 ## 👨‍💻 About Me
-- 🏢 Platform Engineer at Capital One
+- 🏢 DevOps Engineer at Qualexa Healthcare
 - 🎓 B.S. in Computer Science from Florida International University (FIU)
 - 🔧 Working on cloud infrastructure and automation
 - 🎮 Video game enthusiast 
@@ -12,12 +12,14 @@
 - 🐳 Containerization & Orchestration (Docker, Kubernetes)
 - 🔄 CI/CD (Jenkins, GitHub Actions)
 - 📝 Infrastructure as Code (Terraform, CloudFormation)
+- ⚙️ Configuration Management (Ansible)
+- 📊 Monitoring & Observability (New Relic, Splunk)
 - 🐍 Python | 🦀 Rust | 🟨 JavaScript | ☕ Java
 
 ## 🎯 Current Focus
 - 🚀 Automating infrastructure deployments
 - 📚 Learning new technologies
-- 🌱 Growing as a Platform Engineer
+- 🌱 Growing as a DevOps Engineer
 - 🎨 Building side projects
 
 ## 🎮 Gaming & Projects
